@@ -1,6 +1,6 @@
 
 <?php
 
-echo "My name is " + gethostname();
+echo "My name is " . gethostname();
 
 ?>
