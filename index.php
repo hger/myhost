@@ -1,8 +1,6 @@
 
 <?php
 
-//phpinfo();
-
-echo gethostname();
+echo "My name is " + gethostname();
 
 ?>
