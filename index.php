@@ -1,4 +1,4 @@
-//dontrebootme/microbot
+<!-- dontrebootme/microbot-->
 
 <?php
 
